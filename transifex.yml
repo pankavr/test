@@ -1,0 +1,8 @@
+git:
+ filters:
+    
+  - filter_type: file
+    file_format: XML
+    source_file: txcli_testxml_en.xml
+    source_language: en
+    translation_files_expression: 'Translations/<lang>/'
