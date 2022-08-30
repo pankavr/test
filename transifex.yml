@@ -1,6 +1,5 @@
 git:
- filters:
-    
+ filters:    
   - filter_type: file
     file_format: ANDROID
     source_file: txcli_testxml_en.xml
