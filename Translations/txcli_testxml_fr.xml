@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- PRO Lite account -->
+    <string name="prolite_account">Pro Lite</string>
+    <!-- Name of the MEGA PDF Viewer. Keep uppercase. -->
+    <string name="pdf_app_name">Visionneuse MEGA PDF</string>
+    <!-- Answer for confirmation dialog. -->
+    <string name="general_yes">Oui</string>
+    <!-- Answer for confirmation dialog. -->
+    <string name="general_no">Non</string>
+    <!-- dialog option cancel in alert dialog -->
+    <string name="general_cancel">Annuler</string>
+    <!-- When moving a file to a location in MEGA. This is the text of the button after selection the destination -->
+    <string name="general_move_to">Déménager à</string>
+    <!-- Selecting a specific location in MEGA. This is the text of the button -->
+    <string name="general_select">Sélectionner</string>
+    <!-- Selecting a specific location in MEGA. This is the text of the button -->
+    <string name="general_select_to_download">Sélectionner le dossier</string>
+    <!-- This is the final button when creating a folder in the dialog where the user inserts the folder name -->
+    <string name="general_create">Créer</string>
+    <!-- Label of storage in upgrade/choose account page. Placeholder is to display the amount of storage space, e.g. for LITE ‘400GB Storage’. -->
+    <string name="account_upgrade_storage_label">Stockage [A]%1$s[/A]</string>
+    <!-- Label of transfer quota in upgrade/choose account page. Placeholder is to display the amount of transfer quota, e.g. for LITE ‘1TB Transfer quota’. -->
+    <string name="account_upgrade_transfer_quota_label">[A]%1$s[/A] quota de transfert</string>
+    <!-- Label of storage in My account section. -->
+    <string name="account_storage_label">Stockage</string>
+    <!-- Label to indicate the limited bandwidth of the free accounts. Placeholders are to display "Limited" in a different colour. -->
+    <string name="account_choose_free_limited_transfer_quota">Quota de transfert [A]limité[/A]</string>
+    <!-- Name of hots or hosts in the meeting info bottom panel -->
+    <plurals name="meeting_call_screen_meeting_info_bottom_panel_name_of_moderators">
+        <item quantity="one">Hôte : %s</item>
+        <item quantity="many">Hôtes : %s</item>
+        <item quantity="other">Hôtes : %s</item>
+    </plurals>
+    <!-- Number of participants in the call in the meeting info bottom panel -->
+    <plurals name="meeting_call_screen_meeting_info_bottom_panel_num_of_participants">
+        <item quantity="one">Participant : %s</item>
+        <item quantity="many">Intervenants : %s</item>
+        <item quantity="other">Intervenants : %s</item>
+    </plurals>
+</resources>
