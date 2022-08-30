@@ -36,4 +36,6 @@
         <item quantity="one">Participant: %s</item>
         <item quantity="other">Participants: %s</item>
     </plurals>
+   <!-- Label of new string-->
+    <string name="panos_label">Panos</string>
 </resources>
