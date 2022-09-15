@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!DOCTYPE properties SYSTEM "[http://java.sun.com/dtd/properties.dtd](http://java.sun.com/dtd/properties.dtd)">
+<properties>
+  <entry key="cdata">&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;
+&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
+
+  &lt;head&gt;
+    &lt;meta charset="utf-8" content="width=device-width, initial-scale=1" /&gt;
+    &lt;meta http-equiv="X-UA-Compatible" content="width=device-width, initial-scale=1"  charset="utf-8"/&gt;
+    &lt;meta name="viewport" content="width=device-width, initial-scale=1" /&gt;
+    &lt;title&gt;&lt;/title&gt;
+  &lt;/head&gt;
+
+  &lt;body&gt;
+    &lt;div style="font-family:Calibri,sans-serif;font-size:11pt;line-height:1.2"&gt;&lt;br /&gt; Dzień dobry! &lt;br /&gt; &lt;br /&gt; Ostatnio spółka $CUSTOMER$ coraz częściej staje się celem ataków hakerskich. Aby zapobiec incydentom związanym z&amp;nbsp;bezpieczeństwem, stale ulepszamy nasze środki bezpieczeństwa IT. &lt;br /&gt; Dlatego od &lt;b&gt;$CURRENTDATE+7$&lt;/b&gt; będzie obowiązywać nowe uwierzytelnianie wieloskładnikowe wszystkich urządzeń końcowych. &lt;br /&gt; &lt;br /&gt; W&amp;nbsp;przypadku korzystania ze służbowego telefonu kom&amp;oacute;rkowego trzeba pobrać aplikację Secu-Auth za pomocą następującego kodu QR. Zeskanuj kod QR za pomocą aparatu w&amp;nbsp;telefonie kom&amp;oacute;rkowym.&lt;br /&gt; &lt;br /&gt;&lt;br /&gt;&lt;div style="font-family:Calibri,sans-serif;font-size:11pt;line-height:1.2;text-align:center"&gt;&lt;span id="i1"&gt;&lt;img src="$IMAGE/be17574f53860385.png$" height="170" width="140" alt="Pobierz obrazy z tej wiadomości, aby wyświetlić plik." style="font-size:8pt;color:#ea4335" /&gt;&lt;/span&gt;&lt;/div&gt;
+      &lt;div style="text-align:center;font-family:Calibri,sans-serif;font-size:8pt;line-height:1.0"&gt;Jeśli nie możesz zeskanować kodu QR,&lt;br /&gt; skorzystaj z&amp;nbsp;poniższego linku.&lt;/div&gt;&lt;br /&gt; &lt;br /&gt; &lt;br /&gt; Aby skonfigurować nowe uwierzytelnianie wieloskładnikowe na innych urządzeniach, można skorzystać z&amp;nbsp;poniższego linku: &lt;br /&gt; &lt;br /&gt;&lt;div style="text-align:center"&gt;&lt;a href="$PHISHING.safelink-protection.com$"&gt;&lt;span id="i2"&gt;https://apps.googl.com/secu-auth/?id=1293887/&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;&lt;br /&gt; &lt;br /&gt; &lt;span id="i3"&gt;Prosimy o&amp;nbsp;skonfigurowanie odpowiedniej aplikacji najp&amp;oacute;źniej &lt;b&gt;do $CURRENTDATE+6$&lt;/b&gt;. W&amp;nbsp;przeciwnym razie po tym terminie nie będzie można uzyskać dostępu do urządzeń służbowych.&lt;/span&gt; &lt;br /&gt; &lt;br /&gt; Bardzo dziękujemy za wsparcie! &lt;br /&gt; &lt;br /&gt;&lt;/div&gt;
+    &lt;div style="font-family:Calibri,sans-serif;font-size:9pt;line-height:1.0"&gt;
+      &lt;hr /&gt;Marcin Sanecki &lt;br /&gt;menedżer ds. zgodności z przepisami &lt;br /&gt;$CUSTOMER$ &lt;br /&gt; $STREET$ &lt;br /&gt;$CITY$&lt;/div&gt;$TRACKING$&lt;/body&gt;
+
+&lt;/html&gt;</entry>
+  <entry key="no cdata">Dzień dobry!</entry>
+</properties>
