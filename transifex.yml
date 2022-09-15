@@ -2,6 +2,6 @@ git:
  filters:    
   - filter_type: file
     file_format: ANDROID
-    source_file: txcli_testxml_en.xml
+    source_file: txcli_testxml_wrong_en.xml
     source_language: en
-    translation_files_expression: 'Translations/txcli_testxml_<lang>.xml'
+    translation_files_expression: 'Translations/txcli_testxml_wrong_<lang>.xml'
