@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- PRO Lite account -->
-    <string name="prolite_account">Pro Lite</string>
+    <string name="prolite_account">Pro Lite.</string>
     <!-- Name of the MEGA PDF Viewer. Keep uppercase. -->
     <string name="pdf_app_name">MEGA PDF Viewer</string>
     <!-- Answer for confirmation dialog. -->
