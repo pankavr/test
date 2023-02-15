@@ -5,7 +5,7 @@
     <!-- Name of the MEGA PDF Viewer. Keep uppercase. -->
     <string name="pdf_app_name">MEGA PDF Viewer</string>
     <!-- Answer for confirmation dialog. -->
-    <string name="general_yes">Yes</string>
+    <string name="general_yes">Yes!</string>
     <!-- Answer for confirmation dialog. -->
     <string name="general_no">No</string>
     <!-- dialog option cancel in alert dialog -->
