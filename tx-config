@@ -1,0 +1,8 @@
+[main]
+host = https://app.transifex.com
+
+[o:transifex-102:p:aa-16:r:enpo]
+source_file = translations/en.po
+file_filter = /translations/<lang>.po
+source_lang = en
+type = PO
