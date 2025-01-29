@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- PRO Lite account -->
+    <string name="prolite_account">Pro Lite.</string>
+    <!-- Name of the MEGA PDF Viewer. Keep uppercase. -->
+    <string name="pdf_app_name">Visionneuse MEGA PDF</string>
+    <!-- Answer for confirmation dialog. -->
+    <string name="general_yes">Oui</string>
+    <!-- Answer for confirmation dialog. -->
+    <string name="general_no">Non</string>
+    <!-- dialog option cancel in alert dialog -->
+    <string name="general_cancel">Annuler</string>
+    <!-- When moving a file to a location in MEGA. This is the text of the button after selection the destination -->
+    <string name="general_move_to">Déménager à</string>
+    <!-- Selecting a specific location in MEGA. This is the text of the button -->
+    <string name="general_select">Sélectionner</string>
+    <!-- Selecting a specific location in MEGA. This is the text of the button -->
+    <string name="general_select_to_download">Sélectionner le dossier</string>
+    </resources>
